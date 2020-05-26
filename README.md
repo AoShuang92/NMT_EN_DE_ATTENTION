@@ -4,4 +4,4 @@ This repo is about the NTM from German to English. <br>
 <em><b>Encoder</b> </em>and <em><b>Decoder</b></em>: GRU, attention and masking are applied<br>
 <em><b>BLEU score</b></em>: around 29<br>
 <em><b>Visualization</b> </em>of the result:<br>
-<img align='center' style="border-color:gray;border-width:2px;border-style:dashed"  src="prediction_example.png" width = "400px" height="250px" ></img>
+<img align='center' style="border-color:gray;border-width:2px;border-style:dashed"  src="prediction_example.png" width = "600px" height="550px" ></img>
